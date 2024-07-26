@@ -1,3 +1,3 @@
 # Start API Node
 
-Comeando com API em Node.
+Começando com API em Node.
