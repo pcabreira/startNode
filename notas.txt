@@ -1,0 +1,9 @@
+Inicaiar projeto node:
+npm init
+npm install express --save
+
+Carregamento automatico quando houver atualização:
+npm install nodemon -g
+
+Biblioteca para gerar layout
+npm install ejs --save
